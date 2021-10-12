@@ -1,0 +1,20 @@
+{
+  "name": "@jlrwi/curried-parseq",
+  "version": "1.0.0",
+  "description": "Parseq with curried requestors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlrwi/curried-parseq.git"
+  },
+  "author": "Jonathan Reimer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlrwi/curried-parseq/issues"
+  },
+  "homepage": "https://github.com/jlrwi/curried-parseq#readme",
+  "type": "module"
+}
