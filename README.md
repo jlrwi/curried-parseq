@@ -42,7 +42,7 @@ This is an unmodified version of Douglas Crockford's [Parseq](https://github.com
         requestor_array
     )
 
-Each of these factories (except for `parallel_object` and the applied versions) takes an array of requestor functions. The `parallel` factory can take two arrays of requestor functions.
+Each of these factories (except for `parallel_object`) takes an array of requestor functions. The `parallel` factory can take two arrays of requestor functions.
 
 Each of these factory functions returns a requestor function. A factory function may throw an exception if it finds problems in its parameters.
 
